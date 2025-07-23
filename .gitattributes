@@ -1,0 +1,3 @@
+*.data !text !filter !merge !diff
+*.wasm !text !filter !merge !diff
+*.unityweb !text !filter !merge !diff
